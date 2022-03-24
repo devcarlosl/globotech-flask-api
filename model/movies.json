@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "Nome": "Edward Mãos de Tesoura",
+      "Sinopse": "1991",
+      "Avaliacao": "1h45m",
+      "URL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.musicontherun.net%2F2016%2F05%2Ftrilha-sonora-edward-maos-de-tesoura-danny-elfman-1990.html&psig=AOvVaw1C--pHqTG1w-SsyTPtRxFx&ust=1648170547961000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjf1NzH3fYCFQAAAAAdAAAAABAE",
+      "Elenco": " Johnny Depp, Winona Ryder, Dianne Wiest"
+    },
+    {
+      "id": 2,
+      "Nome": "Batman",
+      "Sinopse": "2022",
+      "Avaliacao": "2h56m",
+      "URL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjardimdasamericas.com.br%2Fbatman&psig=AOvVaw1etG6yy69WH2hARZw-PVoV&ust=1648170770342000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC218DI3fYCFQAAAAAdAAAAABAD",
+      "Elenco": "Robert Pattinson - Bruce Wayne/Batman · Zoë Kravitz - Selina Kyle/Mulher-Gato · Paul Dano - Edward Nashton/Charada · Jeffrey Wright - James Gordon"
+    },
+    {
+      "id": 3,
+      "Nome": "A fuga das galinhas",
+      "Sinopse": "2000",
+      "Avaliacao": "1h35min",
+      "URL": "https://upload.wikimedia.org/wikipedia/pt/3/33/A_Fuga_das_Galinhas.jpg",
+      "Elenco": "Mel Gibson, Julia Sawalha, Lyn Fergunson"
+    },
+    {
+      "id": 4,
+      "Nome": "Red: Crescer é uma Fera ",
+      "Sinopse": "2022",
+      "Avaliacao": "100 min",
+      "URL": "https://media.fstatic.com/pWAaMu9ObUY_YD7lwy6eW5uzprc=/290x478/smart/media/movies/covers/2021/07/Turning_Red.jpg",
+      "Elenco": "Rosalie Chiang Meilin, Mei Mei, Panda Meilin, Addie Chandler, Devon"
+    },
+    {
+      "id": 5,
+      "Nome": "Homem-Aranha no Aranhaverso",
+      "Sinopse": "2018",
+      "Avaliacao": "117 minutos",
+      "URL": "https://media.fstatic.com/GUJkcAF03VG8FOh8w0arIrvt5Ko=/290x478/smart/media/movies/covers/2018/07/1_fgpNVFl.jpg",
+      "Elenco": "Brian Tyree Henry, Jefferson Davis, Hailee Steinfeld, Gwen Stacy"
+    },
+    {
+      "id": 6,
+      "Nome": "O Iluminado",
+      "Sinopse": "1980",
+      "Avaliacao": "146 minutos",
+      "URL": "https://media.fstatic.com/-XeKgRet96n3zm20_uxCc1eoslc=/290x478/smart/media/movies/covers/2010/12/5ecbe41ded5098d2dc80abdf835dfba0.jpg",
+      "Elenco": "Danny Lloyd, Jack Nicholson, Shelley Duvall"
+    }
+  ]
